@@ -24,7 +24,7 @@ Spatio-temporal human action detection in videos is a quite chanllenging task. T
    * Frame-mAP
    * Video-mAP
 
-* Methods
+* Papers
    
 ## Datasets
 
