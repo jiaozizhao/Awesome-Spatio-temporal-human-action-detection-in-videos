@@ -5,3 +5,4 @@ This repo is a collection of resources for spatio-temporal human action detectio
 
 ![caption](ucf-successful.gif).         ![caption](jhmdb-successful.gif)
 
+Above are demos of action detection. Green boxes are ground-truth. Others are detection results.
