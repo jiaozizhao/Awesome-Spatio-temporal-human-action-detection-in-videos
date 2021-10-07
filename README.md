@@ -61,9 +61,11 @@ Spatio-temporal human action detection in videos is a quite chanllenging task. T
 
 Like object detection, usually **mAP** (mean Average Precision) is used for evaluation. There are two commonly used metrics for evaluating action detection: frame-mAP and video-mAP. 
 
-* **Frame-mAP** does not consider video property. It evaluates mAP based on a single frame. Frame-mAP@IoU=0.5 is mostly reported. (In my own opinion)I cannot to say it is not good for a video task, but it really ignore the temporal and continousing properties of an action.
+### Frame-mAP
+Frame-mAP does not consider video property. It evaluates mAP based on a single frame. Frame-mAP@IoU=0.5 is mostly reported. (In my own opinion)I cannot to say it is not good for a video task, but it really ignore the temporal and continousing properties of an action.
 
-*  **Video-mAP** caculates mAP based on an actionn tube IoU. Usually, Video-mAP@IoU=0.2, 0.5, 0.75, 0.9 and a mean Video-mAP@0.5:0.95(with step 0.05) are reported.
+### Video-mAP
+Video-mAP caculates mAP based on an actionn tube IoU. Usually, Video-mAP@IoU=0.2, 0.5, 0.75, 0.9 and a mean Video-mAP@0.5:0.95(with step 0.05) are reported.
 **Note: High Frame-mAP may not result in high Video-mAP**.
 
 ## Papers
