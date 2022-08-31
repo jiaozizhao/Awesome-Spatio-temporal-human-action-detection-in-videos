@@ -6,7 +6,7 @@ This repo is a collection of resources for spatio-temporal human action detectio
 
 ![caption](ucf-successful.gif).         ![caption](jhmdb-successful.gif)
 
-Above are demos on action detection, which are generated from [Two-in-One stream](). Green boxes are ground-truth. Others are detection results.
+Above are demos on action detection, which are generated from [Two-in-One stream](https://github.com/jiaozizhao/Two-in-One-ActionDetection). Green boxes are ground-truth. Others are detection results.
 
 ## Why Awesome Spatio-temporal Human action detection
 
